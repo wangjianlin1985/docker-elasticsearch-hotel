@@ -1,0 +1,2 @@
+docker自动管理的es插件卷目录：
+/var/lib/docker/volumes/es-plugins/_data

@@ -1,0 +1,8 @@
+1 看安装文档利用Docker创建elasticsearch,kibana和RabbitMQ容器
+2 导入2个分词器
+3 酒店的mapping文件导入到es索引库
+4 导入mysql数据库脚本直接到本机
+5 启动项目运行
+
+前台页面：http://localhost:8089/index.html
+管理页面：http://localhost:8099/index.html
